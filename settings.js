@@ -27,9 +27,9 @@ global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bank = "plampay"
+global.bankname = "Yusuf Balogun"
+global.accnumber = "9164395345"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
